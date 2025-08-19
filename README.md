@@ -1,6 +1,6 @@
 # GSG Problem Solving - Level 3 Code Repository
 
-[cite_start]This repository contains my solutions and code for the assignments in the **Problem Solving / Level 3** course[cite: 2].
+This repository contains my solutions and code for the assignments in the **Problem Solving / Level 3** course.
 
 ## Author Information
 * **Name:** [Amir Rasmi Al-Rashayda]
